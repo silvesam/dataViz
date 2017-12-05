@@ -27,3 +27,6 @@ function ready(error, countries){
 
 //using map library
 //https://d3-geomap.github.io/map/choropleth/world/
+
+//timeslider tutorial
+//http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/
