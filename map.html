@@ -9,10 +9,15 @@
     <link rel="stylesheet" type="text/css" href="/d3-geomap/css/d3.geomap.css">
     <script src="/d3-geomap/vendor/d3.geomap.dependencies.min.js"></script>
     <script src="/d3-geomap/js/d3.geomap.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 
     <script src="map.js"></script>
 </HEAD>
 <body>
     <div id="map"></div>
+    <div id="sliderContainer">
+	    <input id="timeslide" type="range" min="1960" max="2013" value="2013" step="1"/><br>
+	    <span id="range">Year: 2013</span>
+	</div>
 </body>
 </html>
