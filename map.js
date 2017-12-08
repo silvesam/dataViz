@@ -4,7 +4,7 @@ $(document).ready(function(){
         .defer(d3.json, '/d3-geomap/topojson/world/countries.json')
         .await(ready);
 
-        yearSlider = '2013';
+        yearSlider = '2012';
 
         $("#timeslide").on("input", function() {
 
@@ -24,16 +24,17 @@ function ready(error, countries){
 		return Math.round(d) + ' yrs';
 	}
 
+	//something about Year:2013 makes it fail
 	var map = d3.geomap.choropleth()
 	    .geofile('/d3-geomap/topojson/world/countries.json')
 	    .colors(colorbrewer.YlGnBu[9])
-	    .column('Value')
+	    .column('Year:2012')
 	    .domain([40, 100])
 	    .legend(true)
 	    .format(format)
 	    .unitId('CountryCode');
 
-	d3.csv('/data/life_expectancy_countries.csv', function(error, data) {
+	d3.csv('/data/life_expectancy_parsed_excel.csv', function(error, data) {
 	    d3.select('#map')
 	        .datum(data)
 	        .call(map.draw, map);
