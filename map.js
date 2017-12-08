@@ -23,28 +23,9 @@ $(document).ready(function(){
 
 function ready(error, countries){
 
-	// var format = function(d){
-	// 	return Math.round(d) + ' yrs';
-	// }
-
-	//something about Year:2013 makes it fail
-	// var map = d3.geomap.choropleth()
-	//     .geofile('/d3-geomap/topojson/world/countries.json')
-	//     .colors(colorbrewer.YlGnBu[9])
-	//     .column('Year:2012')
-	//     .domain([40, 100])
-	//     .legend(true)
-	//     .format(format)
-	//     .unitId('CountryCode');
-
 	var map = return_map(yearSlider);
 	draw_map(map);
 
-	// d3.csv('/data/life_expectancy_parsed_excel.csv', function(error, data) {
-	//     d3.select('#map')
-	//         .datum(data)
-	//         .call(map.draw, map);
-	// });
 }
 
 function return_map(column_name){
@@ -53,13 +34,15 @@ function return_map(column_name){
 	}
 	var map = d3.geomap.choropleth()
 	    .geofile('/d3-geomap/topojson/world/countries.json')
-	    .colors(colorbrewer.YlGnBu[9])
+	    .colors(colorbrewer.YlGnBu[7])
 	    .column(column_name)
-	    .domain([40, 100])
+	    .domain([30, 40, 50, 60, 70, 80])
 	    .legend(true)
 	    .format(format)
+	    .valueScale(d3.scale.threshold)
 	    .unitId('CountryCode');
 
+	console.log('MAP mi max: ', map)
 	return map;
 }
 

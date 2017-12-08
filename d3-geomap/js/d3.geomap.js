@@ -581,8 +581,8 @@ var Choropleth = (function (_Geomap) {
                 addGreater = false;
 
             if (self.properties.domain) {
-                if (self.properties.domain[1] < maxDisplay) addGreater = true;
-                maxDisplay = self.properties.domain[1];
+                if (self.properties.domain[(self.properties.domain).length -1] < maxDisplay) addGreater = true;
+                maxDisplay = self.properties.domain[(self.properties.domain).length -1];
 
                 if (self.properties.domain[0] > minDisplay) addLower = true;
                 minDisplay = self.properties.domain[0];
