@@ -3,7 +3,7 @@
 function createCountryList(data){
     var countries = [];
     for (idx in data){
-        var countryName = data[idx].CountryName;
+        var countryName = data[idx][0];
         countries.push(countryName);      
     }
     return countries;
@@ -22,7 +22,8 @@ function createLifeExpList(data, year){
     var lifeExp = ['Life expectancy at birth in ' + year];
     var string = "Year:"+year; 
     for (idx in data){
-        var value = data[idx][string];
+        //var value = data[idx][string];
+        var value = data[idx][1];
         lifeExp.push(value);      
     }
     return lifeExp;

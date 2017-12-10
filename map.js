@@ -20,8 +20,10 @@ $(document).ready(function(){
 			draw_map(mapUpdate);
 
 			d3.select('#chart').html(null);
-			var newlifeExp = createLifeExpList(theData, year);
-			createAllBars (theCountries, newlifeExp);
+			sorted_data = sort_desc(theData, yearSlider);
+			var countries = createCountryList(sorted_data);
+			var newlifeExp = createLifeExpList(sorted_data, year);
+			createAllBars (countries, newlifeExp);
     		
 		});
 })
@@ -33,12 +35,13 @@ function ready(error, countries, data){
 	draw_map(map);
 
 	//barchart
-	var countries = createCountryList(data);
-	var lifeExp = createLifeExpList(data, "2012");
+	sorted_data = sort_desc(data, yearSlider);
+	var countries = createCountryList(sorted_data);
+	var lifeExp = createLifeExpList(sorted_data, "2012");
 	createAllBars (countries,lifeExp);
 
 	theData = data;
-	theCountries = countries;
+	//theCountries = countries;
 	//return data;
 
 }
@@ -68,6 +71,36 @@ function draw_map(map){
 	        .datum(data)
 	        .call(map.draw, map);
 	});
+}
+
+function sort_desc(data, yearSlider){
+	var json = {};
+	for(var i=0; i<data.length; i++){
+		if(data[i][yearSlider] !=0){
+			json[[data[i].CountryName]] = data[i][yearSlider];
+		}
+		
+	}
+
+	keysSorted = Object.keys(json).sort(function(a,b){
+		console.log('a and b are: ', a, b)
+		// console.log('jason[a]: ', json[a])
+		// console.log('jason[b]: ', json[b])
+		// console.log('sub: ' , parseInt(json[a])-parseInt(json[b]))
+
+		return parseFloat(json[a])-parseFloat(json[b])
+		
+	})
+
+	sortedlife = []
+	for(var i=0; i< keysSorted.length; i++){
+		sortedlife.push([keysSorted[i], json[keysSorted[i]]])
+
+	}
+	//console.log('final json: ', json);
+	//console.log('SORTED: ', sortedlife)
+
+	return sortedlife;
 }
 
 
