@@ -1,0 +1,232 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+Arab World,ARB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.6313051672398
+Caribbean small states,CSS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.9019637504868
+Central Europe and the Baltics,CEB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.1275826284862
+East Asia & Pacific (all income levels),EAS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.6046188995068
+East Asia & Pacific (developing only),EAP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.6576165582075
+Euro area,EMU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.3731967418674
+Europe & Central Asia (all income levels),ECS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.789731923845
+Europe & Central Asia (developing only),ECA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.4564610738158
+European Union,EUU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.3842618726
+Fragile and conflict affected situations,FCS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.7711048871514
+Heavily indebted poor countries (HIPC),HPC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.3108256800118
+High income,HIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.1097828969154
+High income: nonOECD,NOC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.0710201403492
+High income: OECD,OEC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.6504347285211
+Latin America & Caribbean (all income levels),LCN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.702201501923
+Latin America & Caribbean (developing only),LAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.3812773393328
+Least developed countries: UN classification,LDC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,62.7747372742946
+Low & middle income,LMY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.3111304861494
+Low income,LIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.8127952203478
+Lower middle income,LMC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,66.9918690986458
+Middle East & North Africa (all income levels),MEA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.8960011005759
+Middle East & North Africa (developing only),MNA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.3475961598045
+Middle income,MIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.3048643271329
+North America,NAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.0976488858613
+OECD members,OED,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.921973877965
+Other small states,OSS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.9989652427917
+Pacific island small states,PSS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.728363316246
+Small states,SST,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,64.8672040805443
+South Asia,SAS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.7809207251351
+Sub-Saharan Africa (all income levels),SSF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,58.0773024021241
+Sub-Saharan Africa (developing only),SSA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,58.0764316418292
+Upper middle income,UMC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.3170902660733
+World,WLD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.2096146905407
+Afghanistan,AFG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.0282682926829
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,77.537243902439
+Algeria,DZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.5689512195122
+Angola,AGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,51.8661707317073
+Antigua and Barbuda,ATG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.7786585365854
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.9860975609756
+Armenia,ARM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.5613658536585
+Aruba,ABW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.3286585365854
+Australia,AUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.1975609756098
+Austria,AUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.890243902439
+Azerbaijan,AZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.6931463414634
+"Bahamas, The",BHS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.0735365853659
+Bahrain,BHR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.5459512195122
+Bangladesh,BGD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.245243902439
+Barbados,BRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.3339512195122
+Belarus,BLR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.4707317073171
+Belgium,BEL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.3853658536585
+Belize,BLZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.9820487804878
+Benin,BEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,59.3120243902439
+Bermuda,BMU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.5724390243902
+Bhutan,BTN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.1029268292683
+Bolivia,BOL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.9134390243903
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.2769268292683
+Botswana,BWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,64.3608048780488
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.1224390243903
+Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.5466585365854
+Bulgaria,BGR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.4658536585366
+Burkina Faso,BFA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,58.2406341463415
+Burundi,BDI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,56.2516097560976
+Cabo Verde,CPV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.9723658536585
+Cambodia,KHM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.7720487804878
+Cameroon,CMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,55.0418048780488
+Canada,CAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.4011219512195
+Central African Republic,CAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,49.8798780487805
+Chad,TCD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,51.1914878048781
+Channel Islands,CHI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.4628292682927
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.1979268292683
+China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.3530243902439
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.8097317073171
+Comoros,COM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,62.9321707317073
+"Congo, Dem. Rep.",ZAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,58.2719268292683
+"Congo, Rep.",COG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.6663902439024
+Costa Rica,CRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.2252195121951
+Cote d'Ivoire,CIV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,51.2084634146342
+Croatia,HRV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,77.1268292682927
+Cuba,CUB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.2563902439025
+Cyprus,CYP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.9497804878049
+Czech Republic,CZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.2780487804878
+Denmark,DNK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.3024390243903
+Djibouti,DJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.6864634146342
+Dominican Republic,DOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.3199024390244
+Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.648512195122
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.9257804878049
+El Salvador,SLV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.4981463414634
+Equatorial Guinea,GNQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,57.2908292682927
+Eritrea,ERI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.1778780487805
+Estonia,EST,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.4243902439025
+Ethiopia,ETH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.4421951219512
+Faeroe Islands,FRO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.3
+Fiji,FJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.9179268292683
+Finland,FIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.8317073170732
+France,FRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.9682926829268
+French Polynesia,PYF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.3340731707317
+Gabon,GAB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.8435853658537
+"Gambia, The",GMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,59.9992682926829
+Georgia,GEO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.079512195122
+Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.0439024390244
+Ghana,GHA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.1420731707317
+Greece,GRC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.6341463414634
+Grenada,GRD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.1935609756098
+Guam,GUM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.872512195122
+Guatemala,GTM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.4863902439024
+Guinea,GIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,58.216487804878
+Guinea-Bissau,GNB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,54.8384146341464
+Guyana,GUY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,66.3100243902439
+Haiti,HTI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,62.4011463414634
+Honduras,HND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.9428536585366
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,83.8317073170732
+Hungary,HUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.2682926829268
+Iceland,ISL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,83.1170731707317
+India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.6604146341463
+Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,68.7046097560976
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.1259756097561
+Iraq,IRQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.4716829268293
+Ireland,IRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.0439024390244
+Israel,ISR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.0560975609756
+Italy,ITA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.290243902439
+Jamaica,JAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.4689268292683
+Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,83.3319512195122
+Jordan,JOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.9014146341463
+Kazakhstan,KAZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.45
+Kenya,KEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.9537804878049
+Kiribati,KIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.7665853658537
+"Korea, Dem. Rep.",PRK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.7919512195122
+"Korea, Rep.",KOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.459756097561
+Kosovo,KSV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.7975609756098
+Kuwait,KWT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.462756097561
+Kyrgyz Republic,KGZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.2024390243902
+Lao PDR,LAO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.687243902439
+Latvia,LVA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.9804878048781
+Lebanon,LBN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.1288780487805
+Lesotho,LSO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,49.3314634146342
+Liberia,LBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.5203902439024
+Libya,LBY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.6576829268293
+Liechtenstein,LIE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.3829268292683
+Lithuania,LTU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.1634146341464
+Luxembourg,LUX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.7975609756098
+"Macao SAR, China",MAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.3391463414634
+"Macedonia, FYR",MKD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.1870487804878
+Madagascar,MDG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,64.6739024390244
+Malawi,MWI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,61.466
+Malaysia,MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.567512195122
+Maldives,MDV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.6026097560976
+Mali,MLI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,57.5351951219512
+Malta,MLT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.7463414634146
+Mauritania,MRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,62.8027073170732
+Mauritius,MUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.46
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.5326585365854
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,68.9733902439024
+Moldova,MDA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,68.811512195122
+Mongolia,MNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.0618048780488
+Montenegro,MNE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.7583658536585
+Morocco,MAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.7090487804878
+Mozambique,MOZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,54.641512195122
+Myanmar,MMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.6540975609756
+Namibia,NAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,64.3438780487805
+Nepal,NPL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.222
+Netherlands,NLD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.1048780487805
+New Caledonia,NCL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,77.1219512195122
+New Zealand,NZL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.4073170731707
+Nicaragua,NIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.514756097561
+Niger,NER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,60.8281463414634
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,52.4421463414634
+Norway,NOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.4512195121951
+Oman,OMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.8410487804878
+Pakistan,PAK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.9636829268293
+Panama,PAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,77.4192195121951
+Papua New Guinea,PNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,62.4491707317073
+Paraguay,PRY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.7991707317073
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.2838536585366
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,68.1315609756097
+Poland,POL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.8487804878049
+Portugal,PRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.3731707317073
+Puerto Rico,PRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.7111951219512
+Qatar,QAT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.4184878048781
+Romania,ROM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.4634146341463
+Russian Federation,RUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.0731707317073
+Rwanda,RWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.3948292682927
+Samoa,WSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.2503902439024
+Sao Tome and Principe,STP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,66.259512195122
+Saudi Arabia,SAU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.1776341463415
+Senegal,SEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.878756097561
+Serbia,SRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.1365853658537
+Seychelles,SYC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.2268292682927
+Sierra Leone,SLE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,50.3631219512195
+Singapore,SGP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.3463414634146
+Slovak Republic,SVK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.2609756097561
+Slovenia,SVN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.2780487804878
+Solomon Islands,SLB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.7189268292683
+Somalia,SOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,55.0230243902439
+South Africa,ZAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,56.7365853658537
+South Sudan,SSD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,55.2209024390244
+Spain,ESP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.4268292682927
+Sri Lanka,LKA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.2402926829268
+St. Lucia,LCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.9127073170732
+St. Martin (French part),MAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.1707317073171
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.8108780487805
+Sudan,SDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.1670487804878
+Suriname,SUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.99
+Swaziland,SWZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,48.9379268292683
+Sweden,SWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,81.7048780487805
+Switzerland,CHE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,82.7487804878049
+Syrian Arab Republic,SYR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.7157804878049
+Tajikistan,TJK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.4001707317073
+Tanzania,TZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,64.2918292682927
+Thailand,THA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.2469268292683
+Timor-Leste,TMP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,67.5223658536585
+Togo,TGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,59.1323658536585
+Tonga,TON,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,72.6403414634147
+Trinidad and Tobago,TTO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,70.3052926829268
+Tunisia,TUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.6463414634147
+Turkey,TUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.1759512195122
+Turkmenistan,TKM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,65.4565609756098
+Uganda,UGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,57.7676829268293
+Ukraine,UKR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.159512195122
+United Arab Emirates,ARE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,77.1956341463415
+United Kingdom,GBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,80.9560975609756
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,78.8414634146341
+Uruguay,URY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,76.8361951219512
+Uzbekistan,UZB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,68.2275853658537
+Vanuatu,VUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,71.669243902439
+"Venezuela, RB",VEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,74.0744146341464
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,75.756487804878
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,79.6243902439024
+West Bank and Gaza,WBG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.2033414634146
+"Yemen, Rep.",YEM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,63.583512195122
+Zambia,ZMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,59.2373658536585
+Zimbabwe,ZWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,55.633

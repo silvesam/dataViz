@@ -1,0 +1,8 @@
+.c3-axis-y text {
+   font-size:12px;
+   font-family:"Helvetica Neue";
+}
+#chart .c3-axis-x text {
+    font-size:5px;
+    font-family:"Helvetica Neue";
+}
