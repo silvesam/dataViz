@@ -1,3 +1,4 @@
+var theData;
 $(document).ready(function(){
 	queue()
         .defer(d3.json, '/d3-geomap/topojson/world/countries.json')
@@ -26,6 +27,8 @@ $(document).ready(function(){
 			createAllBars (countries, newlifeExp);
     		
 		});
+
+		$('#countrySelect').on('change', function(event){countryLine(theData)});
 })
 
 
@@ -43,6 +46,18 @@ function ready(error, countries, data){
 	theData = data;
 	//theCountries = countries;
 	//return data;
+
+	//create dropdown options
+	var options = []
+	for(var i=0; i<data.length; i++){
+		if(data[i][yearSlider] !=0){
+			var opt = document.createElement('option');
+		    opt.innerHTML = data[i].CountryName;
+		    opt.value = i;
+			options.push(opt);
+		}
+	}
+	$('#countrySelect').append(options);
 
 }
 
@@ -83,7 +98,7 @@ function sort_desc(data, yearSlider){
 	}
 
 	keysSorted = Object.keys(json).sort(function(a,b){
-		console.log('a and b are: ', a, b)
+		//console.log('a and b are: ', a, b)
 		// console.log('jason[a]: ', json[a])
 		// console.log('jason[b]: ', json[b])
 		// console.log('sub: ' , parseInt(json[a])-parseInt(json[b]))
@@ -103,9 +118,39 @@ function sort_desc(data, yearSlider){
 	return sortedlife;
 }
 
+function countryLine(data){
+	$('#chartContainer').html(null);
+	var selected = parseInt($('#countrySelect').val());
+	console.log('Selected Country: ', selected, $('#countrySelect :selected').text())
+	//console.log('data: ', data)
+	console.log('selected data: ', data[selected])
+	var lst = [];
+	for (i in data[selected]){
+		if(i === 'CountryCode' || i === 'CountryName'){
+			console.log('Country is: ', data[selected]['CountryName'])
+			continue;
+			//because its the countryCode and CountryName column
+		}
+    	var dict ={};
+    	//console.log('Data at [0]', data[0]);
+    	//console.log(i);
+        dict["x"] = Number (i.slice(5));
+        // dict["x"] = Number (data[0]["1960"]);
+       	dict["y"] = Number (Number (data[selected][i]).toFixed(2));
+       	// dict["y"] = Number (data[0]["Year:1960"]);
+       	// console.log(dict);
+       	lst.push(dict);
+    }
+    console.log('LIST is: ' , lst);
+    create(lst, data[selected]['CountryName']);
+
+}
+
 
 //using map library
 //https://d3-geomap.github.io/map/choropleth/world/
 
 //timeslider tutorial
 //http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/
+
+//<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
